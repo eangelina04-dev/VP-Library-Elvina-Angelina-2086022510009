@@ -1,0 +1,13 @@
+[
+  { "id": "B-001-01", "title": "Sang Pemimpi",   "author": "Andrea Hirata",         "replacementPrice": 90000 },
+  { "id": "B-001-02", "title": "Sang Pemimpi",   "author": "Andrea Hirata",         "replacementPrice": 90000 },
+  { "id": "B-001-03", "title": "Sang Pemimpi",   "author": "Andrea Hirata",         "replacementPrice": 90000 },
+  { "id": "B-001-04", "title": "Sang Pemimpi",   "author": "Andrea Hirata",         "replacementPrice": 90000 },
+  { "id": "B-002-01", "title": "Laskar Pelangi", "author": "Andrea Hirata",         "replacementPrice": 95000 },
+  { "id": "B-002-02", "title": "Laskar Pelangi", "author": "Andrea Hirata",         "replacementPrice": 95000 },
+  { "id": "B-003-01", "title": "Bumi Manusia",   "author": "Pramoedya Ananta Toer", "replacementPrice": 120000 },
+  { "id": "B-003-02", "title": "Bumi Manusia",   "author": "Pramoedya Ananta Toer", "replacementPrice": 120000 },
+  { "id": "B-004-01", "title": "Filosofi Teras", "author": "Henry Manampiring",     "replacementPrice": 98000 },
+  { "id": "B-004-02", "title": "Filosofi Teras", "author": "Henry Manampiring",     "replacementPrice": 98000 },
+  { "id": "B-004-03", "title": "Filosofi Teras", "author": "Henry Manampiring",     "replacementPrice": 98000 }
+]

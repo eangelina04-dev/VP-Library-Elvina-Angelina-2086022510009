@@ -1,0 +1,1 @@
+enum DisplayStatus { available, borrowed, overdue, missing, returned }
